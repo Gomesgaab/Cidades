@@ -1,0 +1,95 @@
+#site {
+
+  /* Definimos a largura da página */
+
+  width: 69%;
+
+  /* Definirmos a altura da página*/
+
+  height: 790px;
+
+  /* posição que a página ocupará na tela*/
+
+  /*top : posição de cima */
+
+  margin-top: 0;
+
+  /* left: posição de esquerda*/
+
+  margin-left: auto;
+
+  /* bottom : posição de baixo */
+
+  margin-bottom: 0;
+
+  /* right : posição de direita */
+
+  margin-right: auto;
+
+  /* a cor de fundo da página */
+
+  background-color: rgb(76, 18, 236);
+
+  position: absolute;
+
+  left: 15%;
+
+}
+
+#header {
+
+  /*definimos a largura da div*/
+
+  width: 100%;
+
+  /* altura da div */
+
+  height: 100px;
+
+  /* Cor de fundo da div */
+
+  background-color: rgb(22, 240, 167);
+
+}
+
+#conteudo-left {
+  /*Novamente definimos a largura da div*/
+  width: 500px;
+  /* altura da div */
+  height: 300px;
+  /* Cor de fundo da div */
+  background-color: #FF0;
+}
+
+#conteudo-left1 {
+  /*Novamente definimos a largura da div*/
+  width: 500px;
+  /* altura da div */
+  height: 390px;
+
+  float: left;
+  /* Cor de fundo da div */
+  background-color: rgb(255, 0, 191);
+}
+
+#footer {
+  /*Novamente definimos a largura da div*/
+  width: 69%;
+  /* altura da div */
+  height: 100px;
+  /* Cor de fundo da div */
+  background-color: rgb(75, 132, 165);
+  position: absolute;
+  top: 100%;
+  left: 15%;
+}
+
+.img {
+  position: absolute;
+  top: 9%;
+  left: 10%;
+}   
+
+.flags {
+  width: 140px;
+}
